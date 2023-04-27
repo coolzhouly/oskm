@@ -24,6 +24,8 @@ TODO
 # 如何参与？
 TODO 
 
+# 编写格式
+推荐使用[Markdown](https://commonmark.org/help/)
 
 # 信息源与参考资料
 * OSI:Open Source Initiative  https://opensource.org/
@@ -38,6 +40,7 @@ TODO
 * Github:Open Source Guides https://opensource.guide/
 * https://github.com/github/github-ospo/
 * InnerSource Commons https://innersourcecommons.org/ 
+* Linux基金会APAC开源布道者SIG https://github.com/lfapac-open-source-evangelist
 
 
 
